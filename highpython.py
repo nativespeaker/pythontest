@@ -40,3 +40,4 @@ print 'xrange:', timer1.timeit(number=2)
 print 'range:', timer2.timeit(number=2)
 print 'while:', timer3.timeit(number=2)
 print 'list comprehension:', timer4.timeit(number=2)
+print 'xxx'
